@@ -1,0 +1,5 @@
+.container{
+    padding: 0 var(--gutter);
+    /* width: 100%; */
+    height: calc(100vh - var(--navbar-height) - var(--footer-height));
+}

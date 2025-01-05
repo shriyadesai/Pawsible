@@ -1,0 +1,13 @@
+.homepage{
+    display: flex;
+    position: relative;
+    height: calc(100vh - var(--navbar-height) - var(--footer-height)) !important;
+}
+
+.homepage__right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
